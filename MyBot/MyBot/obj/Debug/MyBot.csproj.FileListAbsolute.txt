@@ -1,0 +1,7 @@
+C:\Maxim\work\Bot\MyBot\MyBot\bin\Debug\MyBot.exe.config
+C:\Maxim\work\Bot\MyBot\MyBot\bin\Debug\MyBot.exe
+C:\Maxim\work\Bot\MyBot\MyBot\bin\Debug\MyBot.pdb
+C:\Maxim\work\Bot\MyBot\MyBot\obj\Debug\MyBot.csprojAssemblyReference.cache
+C:\Maxim\work\Bot\MyBot\MyBot\obj\Debug\MyBot.csproj.CoreCompileInputs.cache
+C:\Maxim\work\Bot\MyBot\MyBot\obj\Debug\MyBot.exe
+C:\Maxim\work\Bot\MyBot\MyBot\obj\Debug\MyBot.pdb
